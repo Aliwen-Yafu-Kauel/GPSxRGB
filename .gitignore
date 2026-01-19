@@ -20,3 +20,6 @@ venv/
 .venv/
 
 data/
+traj/
+las/
+vid/
