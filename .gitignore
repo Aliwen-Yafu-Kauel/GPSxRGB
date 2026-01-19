@@ -1,0 +1,22 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Carpetas de dependencias (ejemplo para JS/Node)
+node_modules/
+dist/
+
+# Carpetas de entorno (ejemplo para Python)
+venv/
+__pycache__/
+
+# Archivos de configuración de VS Code (opcional, si no quieres compartir tu config personal)
+.vscode/
+
+venv/
+.venv/
+
+data/
