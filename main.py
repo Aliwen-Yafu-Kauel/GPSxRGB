@@ -4,9 +4,9 @@ from datetime import datetime, timedelta
 import json
 
 # ================= CONFIGURACIÓN =================
-LAS_FOLDER = "./"
-TRAJ_FOLDER = "./"
-VIDEO_FOLDER = "./"
+LAS_FOLDER = "las/"
+TRAJ_FOLDER = "vid/"
+VIDEO_FOLDER = "traj/"
 
 FPS = 29.97
 TIMELAPSE_RATIO = 15.0 
